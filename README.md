@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Capital Bank as a fullstack developer<br>- 🌱 I’m currently learning Backpack/Laravel<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
+- 🔭 I’m currently working with Capital Bank as a fullstack developer<br>- 🌱 I’m currently learning Backpack/Laravel<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
 
 
 ## 🌐 Socials:
